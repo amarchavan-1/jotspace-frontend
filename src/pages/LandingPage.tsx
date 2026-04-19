@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Book, Moon, Sun, ArrowRight, ShieldCheck, Zap } from 'lucide-react';
+import { Book, Moon, Sun, ArrowRight, Zap } from 'lucide-react';
 import { useTheme } from '../context/ThemeContext';
 
 export const LandingPage: React.FC = () => {
